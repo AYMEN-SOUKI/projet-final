@@ -1,0 +1,432 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
+
+.header{
+
+    display: flex;
+    justify-content:  space-around;
+    padding-top :4px ;
+    padding-right: 460px;
+
+    position: sticky  ;
+     top :0;
+     right: 0;
+     background:#070707;
+     box-shadow: 5px 5px 6px rgb(0, 0, 0);
+}
+.header .image1{
+    width: 150px;
+}
+.header .image2{
+    position: relative;
+    left: 300px;
+    width: 20px;
+  
+
+}
+.header .image3{
+    position: relative;
+    left: 350px;
+    width: 20px;
+  
+
+}
+.header div {
+
+    text-decoration : none ;
+    padding: 0  10px; 
+}
+
+.nav-links{
+    display :flex;
+    align-items: center;
+    padding: 0  5px; 
+    
+}
+.dropdown button {
+    display: block;
+    background-color: transparent;
+    border :0;
+    color : rgb(128, 128, 128);
+
+}
+.image  img{
+    width: 1300px;
+    height: 900px;
+}
+
+
+.header a:hover{
+    color:rgba(15, 15, 15, 0.521)
+}
+
+
+.dropdown button:hover{
+    border :none;
+    color :blanchedalmond;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section2{ 
+    background-color:#e5faf8;
+    height:300vh;
+    background-image: url(0-0_88_new_ds_3_100_electric_XXL79-171.webp);
+    background-repeat: no-repeat;
+    background-size:  1300px;
+    background-position:  0px 0px;
+  
+}
+
+
+.adress {
+    display:flex;
+    justify-content: space-around;
+    padding-left: 300px;
+    padding-top: 100px;
+    width: 1000px;
+    
+}
+.adress a{
+    color: #ffffff;
+    font-family:  Work Sans,Arial,sans-serif ;
+    font-weight: 300;
+    font-size: 20px;;
+
+}
+.adress1 {
+    display:flex;
+    justify-content: space-around;
+    padding-left: 300px;
+    padding-top: 50px;
+    width: 1000px;
+    
+}
+.adress1 a{
+    color: #ffffff;
+    font-family:  Work Sans,Arial,sans-serif ;
+    font-weight: 300;
+    font-size: 30px;;
+
+}
+.message {
+    display:flex;
+    align-items: center;
+    align-content: flex-end;
+    flex-direction: column;
+    padding: 20px 0px;
+    color: #fff8f8;
+    font-family:  Work Sans,Arial,sans-serif ;
+    padding-top: 540px;
+   
+}
+.tt{
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:  Work Sans,Arial,sans-serif ;
+    padding-top: 100px;
+   
+}
+.tt1{
+    color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:  Work Sans,Arial,sans-serif ;
+    padding-top: 700px;
+   
+}
+.tt1 h1{
+    font-weight: 300;
+    font-size: 50px;;
+}
+
+
+.section2 .image4{
+    position: relative;
+    left: 30px;
+    width: 50px;
+  
+
+}
+.section2 .image5{
+    position: relative;
+    left: 1150px;
+    width: 50px;
+  
+
+}
+.section2 .cercle{
+    display: flex;
+    justify-content: center;
+
+}
+.c1{
+    width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section3{
+    display:flex;
+    flex-direction: column;
+   
+    align-items: flex-start;
+    gap: 1vw;
+    padding: 20px 20px;
+    color: #070707;
+    font-family:  Work Sans,Arial,sans-serif ;
+ }
+ 
+
+
+
+
+
+
+.im1 {
+    width: 1300px;
+}
+.im2 {
+    width: 1300px;
+}
+
+.section5{
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 800px;
+    gap: 1vw;
+    padding: 0px 60px;
+    color: #070707;
+    font-family:  Work Sans,Arial,sans-serif ;
+    font-size: 20px;
+    font-weight: 900;
+ }
+.section6{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    padding: 10px 50px;
+    padding-bottom: 50px;
+    gap:  20px;
+   width: 1200px;
+}
+
+.section7{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    padding: 10px 50px;
+    padding-bottom: 50px;
+    gap:  20px;
+   width: 1200px;
+}
+.section7 img{
+    width: 600px;
+}
+
+.section7 .right{
+    display: flex;
+    flex-direction: column;
+    gap: 3vw;
+    
+}
+.btn-btn-outline-secondary{
+    width: 200px;
+    border: 0;
+   
+}
+.section7 h1{
+    font-family:  Work Sans,Arial,sans-serif ;
+  
+}
+.section9 .section99{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    width: 1200px;
+   
+    border-top: 1px solid #080808;
+    gap: 1vw;
+    font-family:  Work Sans,Arial,sans-serif ;
+    font-size: 2vw;
+    text-size-adjust: 10;
+  
+  
+}
+.section9{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+.figure {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;;
+    justify-content:space-between;
+    margin-left: 30px;
+    margin-top: 50px;
+    background:white;
+}
+
+
+.ilike {
+    background-color: rgb(209, 196, 6);
+    
+   
+
+  }
+
+
+
+.figure>.image{
+    border: groove;
+    padding: 10px;
+    
+ 
+ }
+
+.legende{
+    display:flex;
+    flex-direction: column;
+}
+
+.legende>h3,h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.compteur {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.compteur>.inputqte {
+    width: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.like{
+ 
+    margin-left: 250px;
+    
+}
+
+.figure>.image{
+    border: groove;
+    padding: 10px;
+    
+}
+
+.legende{
+    display:flex;
+    flex-direction: column;
+}
+
+.legende>h3,h4 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.figure>.image{
+    border: groove;
+   padding: 10px;
+    
+}
+
+
+
+.legende>h3,h4 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.afficheur {
+    display: flex;
+    margin-top: 35px;
+    justify-content:flex-end;
+    margin-right: 45px;
+}
+
+.afficheur h2 {
+ margin-right: 20px;
+}
+
+.image .A12 {
+    width: 300px;
+    height: 300px;
+}
+.delete img{
+    width: 20px;
+    height: 20px;
+}
+.like img{
+    width: 20px;
+    height: 20px;
+}
+.section8 {
+
+    display: flex;
+    justify-content: center;
+    font-family:  Work Sans,Arial,sans-serif ;
+}
+
+
+
+
+.main-footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 100px;
+   
+    border-top: 1px solid #080808;
+    text-align: center;
+    padding: 1em 0;
+color: antiquewhite;
+background-color: #070707;
+}
